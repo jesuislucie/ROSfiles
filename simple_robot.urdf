@@ -49,7 +49,6 @@
       </material>
     </visual>
   </link>
-  <!--
   <joint name="joint3" type="revolute">
     <parent link="link2"/>
     <child link="link3"/>
@@ -69,5 +68,4 @@
       </material>
     </visual>
   </link>
-  -->
 </robot>
